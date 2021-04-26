@@ -1,0 +1,16 @@
+#block {
+    width: 800px;
+    height: 680px;
+}
+
+#resume {
+    float: left;
+    background-color: #65a5fa;
+    color: white;
+    text-align: center;
+    width: 20%;
+    height: 100%;
+    margin-right: 1.2rem;
+    margin-top: 0;
+    padding-top: 30px;
+}

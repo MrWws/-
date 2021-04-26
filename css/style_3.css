@@ -1,0 +1,26 @@
+#block {
+    width: 800px;
+    height: 1000px;
+}
+
+#resume {
+    background: #858585;
+    color: white;
+    line-height: 3rem;
+    padding-left: 1rem;
+    font-size: 0.5rem;
+}
+
+.title {
+    float: left;
+    background: #d6d6d6;
+    border-bottom: 2px, solid, white;
+    line-height: 8rem;
+    text-align: center;
+}
+body div {
+    overflow: hidden;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom-width: 2px;
+}
